@@ -53,15 +53,15 @@ By analyzing images captured throughout the store, Azure AI Vision provides mean
 
 ### Running the Project using Azure's Vision Studio
 
-##### Generate captions for an image
+#### 1. Generate captions for an image
 
 ![Comp-1](https://github.com/user-attachments/assets/f1b45cfc-bc97-42af-b068-7402fae0eb66)
 
-##### Tagging images
+#### 2. Tagging images
 
 ![Comp-2](https://github.com/user-attachments/assets/a2b4e997-c860-4b68-b7a1-e8ac4cc493a6)
 
-##### Object detection
+#### 3. Object detection
 
 ![Comp-3](https://github.com/user-attachments/assets/4995b456-52ee-426f-b3dd-acc5641bef45)
 
