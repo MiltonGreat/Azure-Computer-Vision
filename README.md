@@ -1,4 +1,4 @@
-# Azure AI Vision: Image Analysis and Object Detection Project
+# Azure AI Vision: Image Analysis and Object Detection
 
 ### Project Overview
 
@@ -81,4 +81,4 @@ This project highlights how powerful and efficient it can be to automate image a
 
 ### References
 
-https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/4-exercise/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-computer-vision-microsoft-azure
+Exercise: [Microsoft Training Module](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/4-exercise/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-computer-vision-microsoft-azure)
